@@ -1,0 +1,7 @@
+django
+gunicorn
+django-environ
+django-cors-headers
+django-xff
+psycopg2-binary
+numpy
